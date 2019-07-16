@@ -15,10 +15,10 @@ Applying sentiment analysis to stock movement forecasting has been prominent fie
 
 ## Reports
 ### Final Report
-Written report that walks through the data wrangling, exploratory data analysis, and process of building the final classification model.
+Written report that walks through the data wrangling, exploratory data analysis, and process of building the final time series regression model.
 
 ### Final Powerpoint
-A summary presentation of the data wrangling, exploratory data analysis, and classification model.
+A summary presentation of the data wrangling, exploratory data analysis, and regression model.
 
 ## Other Files
 ### Code
